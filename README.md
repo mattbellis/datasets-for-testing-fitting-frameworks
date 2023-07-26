@@ -1,4 +1,4 @@
-# datasets_for_testing_fitting_frameworks
+# datasets-for-testing-fitting-frameworks
 
 ## How to use 
 
