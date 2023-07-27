@@ -39,7 +39,7 @@ Dataset description
   * `sigma`: Mass resolution (Gaussian) in GeV/c^2
 
  
-# Two interferig Breit-Wigners
+# Two interfering Breit-Wigners
 
 https://github.com/mattbellis/datasets_for_testing_fitting_frameworks/blob/main/Breit-Wigners/double_BW_000.txt
 
