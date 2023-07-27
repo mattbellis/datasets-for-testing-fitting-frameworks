@@ -28,14 +28,14 @@ Dataset description
 ### Fit to a Breit-Wigner
 
 * Parameters and required labels for downstream comparisons
-  * `m0`: Pole of the Breit-Wigner function
-  * `gamma`: Residue (width) of the Breit-Wigner Function
+  * `m0`: Mass of the Breit-Wigner function
+  * `gamma`: Width of the Breit-Wigner Function
  
 ### Fit to a Breit-Wigner with finite resolution
 
 * Parameters and required labels for downstream comparisons
-  * `m0`: Pole of the Breit-Wigner function
-  * `gamma`: Residue (width) of the Breit-Wigner Function
+  * `m0`: Mass of the Breit-Wigner function
+  * `gamma`: Width of the Breit-Wigner Function
   * `sigma`: Mass resolution (Gaussian) in GeV/c^2
 
  
@@ -63,18 +63,18 @@ Dataset description
 ### Fit to two interfering Breit-Wigners
 
 * Parameters and required labels for downstream comparisons
-  * `m0_1`: Pole of the lower-mass Breit-Wigner function
-  * `gamma_1`: Residue (width) of the lower-mass Breit-Wigner Function
-  * `m0_2`: Pole of the higher-mass Breit-Wigner function
-  * `gamma_2`: Residue (width) of the higher-mass Breit-Wigner Function
+  * `m0_1`: Mass of the lower-mass Breit-Wigner function
+  * `gamma_1`: Width of the lower-mass Breit-Wigner Function
+  * `m0_2`: Mass of the higher-mass Breit-Wigner function
+  * `gamma_2`: Width of the higher-mass Breit-Wigner Function
  
 ### Fit to a Breit-Wigner with finite resolution
 
 * Parameters and required labels for downstream comparisons
-  * `m0_1`: Pole of the lower-mass Breit-Wigner function
-  * `gamma_1`: Residue (width) of the lower-mass Breit-Wigner Function
-  * `m0_2`: Pole of the higher-mass Breit-Wigner function
-  * `gamma_2`: Residue (width) of the higher-mass Breit-Wigner Function
+  * `m0_1`: Mass of the lower-mass Breit-Wigner function
+  * `gamma_1`: Width of the lower-mass Breit-Wigner Function
+  * `m0_2`: Mass of the higher-mass Breit-Wigner function
+  * `gamma_2`: Width of the higher-mass Breit-Wigner Function
   * `sigma`: Mass resolution (Gaussian) in GeV/c^2
 
 
@@ -102,18 +102,18 @@ Dataset description
 ### Fit to two interfering Breit-Wigners
 
 * Parameters and required labels for downstream comparisons
-  * `m0_1`: Pole of the lower-mass Breit-Wigner function
-  * `gamma_1`: Residue (width) of the lower-mass Breit-Wigner Function
-  * `m0_2`: Pole of the higher-mass Breit-Wigner function
-  * `gamma_2`: Residue (width) of the higher-mass Breit-Wigner Function
+  * `m0_1`: Mass of the lower-mass Breit-Wigner function
+  * `gamma_1`: Width of the lower-mass Breit-Wigner Function
+  * `m0_2`: Mass of the higher-mass Breit-Wigner function
+  * `gamma_2`: Width of the higher-mass Breit-Wigner Function
  
 ### Fit to a Breit-Wigner with finite resolution
 
 * Parameters and required labels for downstream comparisons
-  * `m0_1`: Pole of the lower-mass Breit-Wigner function
-  * `gamma_1`: Residue (width) of the lower-mass Breit-Wigner Function
-  * `m0_2`: Pole of the higher-mass Breit-Wigner function
-  * `gamma_2`: Residue (width) of the higher-mass Breit-Wigner Function
+  * `m0_1`: Mass of the lower-mass Breit-Wigner function
+  * `gamma_1`: Width of the lower-mass Breit-Wigner Function
+  * `m0_2`: Mass of the higher-mass Breit-Wigner function
+  * `gamma_2`: Width of the higher-mass Breit-Wigner Function
   * `sigma`: Mass resolution (Gaussian) in GeV/c^2
 
 
