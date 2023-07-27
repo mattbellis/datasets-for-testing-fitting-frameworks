@@ -3,6 +3,8 @@ The *amplitude* is given by
 
 $$\psi = \frac{1}{(M-M_0) + \frac{i\Gamma}{2}}$$
 
+[This Jupyter/Colab notebook](https://colab.research.google.com/drive/1Qeze7bN1NrefW8hV9gbmWMLKM48E823z?usp=sharing)
+was used to generate these datasets.
 
 # Single Breit-Wigner
 
